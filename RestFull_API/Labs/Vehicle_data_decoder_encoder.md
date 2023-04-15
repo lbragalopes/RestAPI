@@ -23,4 +23,4 @@ Of course, some basic data validity checks should be done, too.
 
 Take a look at these two screenshots. They present two different use cases of the same program:
 
-image.png
+![image](https://user-images.githubusercontent.com/83672645/232223681-b01336f0-aabd-4c88-96fa-d8db85142405.png)
