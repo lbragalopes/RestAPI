@@ -21,3 +21,6 @@ Your task is to write a code which has exactly the same conversation with the us
 
 Of course, some basic data validity checks should be done, too.
 
+Take a look at these two screenshots. They present two different use cases of the same program:
+
+image.png
