@@ -22,5 +22,5 @@ Your task is to write a code which has exactly the same conversation with the us
 Of course, some basic data validity checks should be done, too.
 
 Take a look at these two screenshots. They present two different use cases of the same program:
-
-![image](https://user-images.githubusercontent.com/83672645/232223681-b01336f0-aabd-4c88-96fa-d8db85142405.png)
+![image](https://user-images.githubusercontent.com/83672645/232223756-b6a5124b-2b72-474c-ad52-c7ecd4e03e98.png)
+![image](https://user-images.githubusercontent.com/83672645/232223769-9b84dc79-cbaa-4143-9c52-6dfbd72c99f7.png)
